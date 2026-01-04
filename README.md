@@ -1,2 +1,2 @@
-# workspace-bookbot
+# bookbot
 boot.dev bookbot project
